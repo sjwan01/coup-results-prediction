@@ -2,11 +2,11 @@
 
 ## Background
 
-Coups are sudden and violent events that unlawfully seize power from governments. They often entail violence and are hugely impactful on people’s lives, not only in the country where the coup takes place but also in countries that are closely connected to it, economically, politically, or culturally, for coups change what is considered as the norm.
+Coups are sudden and violent events that unlawfully seize power from governments. They often entail violence and are hugely impactful on people’s lives, not only in the country where the coup takes place but also in countries that are closely connected to it.
 
 Hence, predicting coup results becomes an important task, as it could help stakeholders and entities make decisions in advance to get ready for the upcoming risks or crises. For instance, government officials could prepare ahead of time to respond to the new geopolitical environment, and investor could make plans to avoid losing their local economic interests.
 
-Social scientists have made enormous efforts in developing risk analysis methods that could help people predict coup results. The prediction is commonly based on critical analysis of articles and archives from various sources. As a data scientist, however, I wonder whether predictions can be made soley using the power of data - whether there exists some statistical model that can accurately tell if a coup will succeed or not with some set of available information.
+Social scientists have made enormous efforts in developing risk analysis methods that could help people predict coup results. The prediction is commonly based on critical analysis of articles and archives from various sources. As a data scientist, however, I wonder whether predictions can be made using the power of data - whether there exists some statistical model that can accurately tell if a coup will succeed or not with some set of available information.
 
 With such curiousity, I started this project.
 
