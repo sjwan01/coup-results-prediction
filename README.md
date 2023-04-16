@@ -8,12 +8,6 @@ Hence, predicting coup results becomes an important task, as it could help stake
 
 Social scientists have made enormous efforts in developing risk analysis methods, which are commonly based on critical analysis of articles and archives from various sources. As a data scientist, however, I wonder whether predictions can be made using solely data methods - whether there exists statistical models that can accurately tell if a coup will succeed, and whether they could inform which features are the most crucial in determining the result.
 
-## Goals
-
-This project is exploratory in nature. I aim to answer the following two questions through [__data analysis__](https://github.com/sjwan01/coup-results-prediction-with-classification-models/blob/main/Coup%20Results%20Prediction.ipynb):
-- __*Which factors are the most influential in determining whether a result will succeed?*__
-- __*How accurate can our predictions be with only selected information?*__
-
 ## Data
 
 Our analysis mainly makes use of datasets from the following sources:
@@ -21,6 +15,12 @@ Our analysis mainly makes use of datasets from the following sources:
 - [**_Rulers, Elections, and Irregular Governance dataset_ (REIGN)**](https://oefdatascience.github.io/REIGN.github.io/menu/reign_current.html)
 
 The _**CDP**_ dataset contains coup types, results, etc. of 943 coup instances from 1945 to 2022, and the _**REIGN**_ dataset provides thorough information about leadership and regime of countries across time. While the datasets can also be found in this repository, it is highly recommended to check out their websites. The codebooks provide comprehensive description about the datasets. Supplementary datasets from _**Oxford University**_ and _**World Bank**_ are also used to construct additional features that are deemed relevant to our problem.
+
+## Goals
+
+I aim to answer the following two questions through [__data analysis__](https://github.com/sjwan01/coup-results-prediction-with-classification-models/blob/main/Coup%20Results%20Prediction.ipynb):
+- __*Which factors are the most influential in determining whether a result will succeed?*__
+- __*How accurate can our predictions be with only selected information?*__
 
 ## Models
 
