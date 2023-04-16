@@ -1,4 +1,4 @@
-# Coup Results Prediction with Classification Models
+# Coup Results Prediction
 
 ## Background
 
