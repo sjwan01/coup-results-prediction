@@ -16,6 +16,8 @@ Our analysis mainly makes use of datasets from the following sources:
 
 The _**CDP**_ dataset contains coup types, results, etc. of 943 coup instances from 1945 to 2022, and the _**REIGN**_ dataset provides thorough information about leadership and regime of countries across time. While the datasets can also be found in this repository, it is highly recommended to check out their websites. The codebooks provide comprehensive description about the datasets. Supplementary datasets from _**Oxford University**_ and _**World Bank**_ are also used to construct additional features that are deemed relevant to our problem.
 
+The `realized` variable in the _**CDP**_ dataset is the target feature to be predicted.
+
 ## Goals
 
 I aim to answer the following two questions through [__data analysis__](https://github.com/sjwan01/coup-results-prediction-with-classification-models/blob/main/Coup%20Results%20Prediction.ipynb):
